@@ -1,0 +1,12 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {C:/Users/Ruslan/Desktop/08.10.19/RGB(TEST)/WRITE_TO_FILE.vhd}
+vcom -93 -work work {C:/Users/Ruslan/Desktop/08.10.19/RGB(TEST)/Working_with_memory.vhd}
+vcom -93 -work work {C:/Users/Ruslan/Desktop/08.10.19/RGB(TEST)/IMAGE_SENSOR_SIM .vhd}
+vcom -93 -work work {C:/Users/Ruslan/Desktop/08.10.19/RGB(TEST)/count_n_modul.vhd}
+

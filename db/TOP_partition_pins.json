@@ -1,0 +1,197 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SYNC_V",
+					"strict" : false
+				},
+				{
+					"name" : "SYNC_H",
+					"strict" : false
+				},
+				{
+					"name" : "XVS_Imx_Sim",
+					"strict" : false
+				},
+				{
+					"name" : "XHS_Imx_Sim",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "MAIN_reset",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[2]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[4]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mode_IMAGE_SENSOR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mode_IMAGE_SENSOR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mode_IMAGE_SENSOR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mode_IMAGE_SENSOR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[0]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[6]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[5]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[8]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[7]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[10]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[9]",
+					"strict" : false
+				},
+				{
+					"name" : "START_PIX[11]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[4]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[3]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[6]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[5]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[8]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[7]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[10]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[9]",
+					"strict" : false
+				},
+				{
+					"name" : "n_pix_IS[11]",
+					"strict" : false
+				},
+				{
+					"name" : "MAIN_ENABLE",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[1]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[0]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[2]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[3]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[4]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[5]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[6]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[7]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[8]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[9]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[10]",
+					"strict" : false
+				},
+				{
+					"name" : "n_strok[11]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
